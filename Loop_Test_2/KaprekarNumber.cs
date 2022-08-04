@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace MyProject.Nested_IfElse
+namespace MyProject.Loop_Test_2
 
 {
     class KaprekarNumber
