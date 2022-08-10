@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyProject.Loop_Test_2.KaprekarNumber1</StartupObject>
+	  <StartupObject>MyProject.Array_Demo.CountOddElements</StartupObject>
   </PropertyGroup>
 
 </Project>
