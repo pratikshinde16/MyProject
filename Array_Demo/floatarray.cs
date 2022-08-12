@@ -12,7 +12,7 @@ namespace MyProject.Array_Demo
             float[] a = new float[5];
             
 
-            Console.WriteLine("Enter thr array Elements ");
+            Console.WriteLine("Enter the array Elements ");
             for(int i=0;i<a.Length;i++)
             {
                 
@@ -27,7 +27,7 @@ namespace MyProject.Array_Demo
             }
 
             
-            Console.WriteLine("Display using foeach.........");
+            Console.WriteLine("Display using foreach.........");
             foreach(float x in a)
             {
                 Console.WriteLine(x);

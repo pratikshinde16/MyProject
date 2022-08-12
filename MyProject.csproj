@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-	  <StartupObject>MyProject.Array_Demo.CountOddElements</StartupObject>
+	  <StartupObject>MyProject.Array_Demo.MaxMinInteger</StartupObject>
   </PropertyGroup>
 
 </Project>
